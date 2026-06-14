@@ -1,0 +1,8 @@
+# Environment Variables for Vercel Deployment
+# Add these in Vercel Dashboard -> Project Settings -> Environment Variables
+
+VITE_SUPABASE_URL=https://vqgwrsuttvfxuntffqls.supabase.co
+VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_ODUjoRkyODjiRrjezZ0Dfg_Tn6j-yhe
+VITE_EMAILJS_SERVICE_ID=service_n5xv4yo
+VITE_EMAILJS_TEMPLATE_ID=template_yztrzci
+VITE_EMAILJS_PUBLIC_KEY=zTeMi_umW5l_V1G5W
